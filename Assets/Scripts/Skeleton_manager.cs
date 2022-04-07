@@ -36,7 +36,7 @@ public class Skeleton_manager : MonoBehaviour
         RaycastHit2D hit = Physics2D.Raycast(transform.position, -Vector2.right);
         Debug.DrawRay( transform.position, Vector2.right);
         
-        if (Physics2D.Raycast(hit, ))
+//        if (Physics2D.Raycast(hit, ))
         
         if (state == (int) MovementState.walking) {
             if (Vector2.Distance(waypoints[currentWaypointIndex].transform.position, transform.position) < 0.2f) {
