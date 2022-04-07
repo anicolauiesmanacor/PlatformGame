@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - CollectGold
+  - CollectHealth
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Background
+  - Terrain
+  - Foreground
+  - Player
+  - Details
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2216551685
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2940549709
+    locked: 0
+  - name: Ground
+    uniqueID: 2483872429
+    locked: 0
+  - name: Terrain
+    uniqueID: 1590860937
+    locked: 0
+  - name: Enemies
+    uniqueID: 107766545
+    locked: 0
+  - name: Player
+    uniqueID: 729471255
+    locked: 0
+  - name: Details
+    uniqueID: 4139522049
+    locked: 0
